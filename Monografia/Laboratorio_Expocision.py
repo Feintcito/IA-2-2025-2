@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 
 
 # ============================================================================
-# GENERACIÓN DE DATOS SIMULADOS DE TRÁFICO DE RED (VERSIÓN MEJORADA)
+# GENERACIÓN DE DATOS SIMULADOS DE TRÁFICO DE RED
 # ============================================================================
 
 def generar_datos_trafico(n_samples=5000):
